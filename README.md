@@ -78,5 +78,5 @@ App will be running at: http://localhost:3000
 * Customize design & export to PDF
 
 ## Made By 
-Vageshwari Chaudhary
+Krishna Murari Chaudhary
 
